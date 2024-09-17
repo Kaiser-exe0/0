@@ -40,7 +40,8 @@ color: var(--text-color);
 }
 
 #Container {
-    width: 360px;
+    width:100%;
+    max-width: 588px;
     margin: auto;
     padding-top: 56px;
 }
